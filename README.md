@@ -8,9 +8,9 @@ I used to solve a complex, messy problem. Lots of feature searching, cleaning fo
 2. Data inspection cleaning, plotting.
 3. Feature inspection round 1
 4. Focus on Office-based visits (features)
-5 Feature selection, again. Adding in a bunch of new features.  
+5. Feature selection, again. Adding in a bunch of new features.  
 6. Categorization model - Random forest classifier 
-7. Regression model - Gradient boosted regression tree
+7. Regression model - Gradient boosted regression tree  
 8. Both categorization and regression models. In basically their final form. 
 
 
